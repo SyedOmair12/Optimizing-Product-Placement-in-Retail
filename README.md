@@ -1,1 +1,1 @@
-# -Optimizing-Product-Placement-in-Retail
+# Optimizing-Product-Placement-in-Retail
